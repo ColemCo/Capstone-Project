@@ -1,0 +1,21 @@
+RLSTM: A New Framework of Stock Prediction by Using Random
+Noise for Overfitting Prevention
+
+Summary: The authors set out to develop a deep learning method that wouldn't overfit or generalize data. 
+They name it RLSTM(Random Long Short-Term Memory). According to them their method performs better than other deep learning methods.
+
+
+
+Stock closing price prediction based on sentiment analysis and LSTM
+
+Summary:They have a LSTM-based model that takes into account investor sentiment and they use EMD, used 
+to decompose the complex stock pricing sequence. lastly there is an attention mechanism which helps to focus on the most contributing information.
+
+
+
+Improving stock trading decisions based onpattern recognition
+using machine learning technology
+
+
+Summary: used PRML, a novel pattern recongnition method, using maching learning methods. 
+It uses the candlesticks three days prior in order to try to accurately predict the next days,
